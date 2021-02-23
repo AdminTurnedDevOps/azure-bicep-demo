@@ -1,3 +1,9 @@
+## Helpful Links
+1. https://github.com/Azure/bicep/blob/main/docs/installing.md
+2. https://github.com/Azure/bicep/tree/main/src
+3. https://github.com/Azure/azure-resource-manager-schemas/blob/master/schemas/2015-01-01/deploymentTemplate.json
+
+## Instructions
 1. Create a file with a `.bicep` extension
   `touch main.bicep`
 
